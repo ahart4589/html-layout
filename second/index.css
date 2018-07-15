@@ -1,0 +1,34 @@
+body{
+    margin:0;
+    padding:10px;
+}
+.container-one {
+    background-color:white;
+    border: 5px solid black;
+    width: 95%;
+    height:30vh;
+    margin: 20px auto;
+}
+.rectangle-one {
+    background-color: #A218E7;
+    width: 35px;
+    height: 75%;
+    margin-top: 40px;
+    margin-left: 10px;
+    display: inline-block;
+}
+.rectangle-two {
+    background-color: #1C932A;
+    width: 400px;
+    height: 90%;
+    margin-left: 50px;
+    display: inline-block;
+}
+
+.circle {
+    background-color: #7FD8EE;
+    height: 100px;
+    width: 100px;
+    border-radius: 50%;
+    display: inline-block;
+}
