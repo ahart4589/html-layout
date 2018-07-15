@@ -1,0 +1,42 @@
+body {
+    margin: 0;
+    padding: 0
+}
+.row {
+    width: 100%;
+    height: 100px;
+}
+.row-one {
+    background-color:#D8DCDF;
+    padding: 20px;
+    box-sizing: border-box;
+}
+.box-row-one{
+    background-color: #27A4F5;
+    width: 65px;
+    height: 65px;
+    
+}
+.row-two-big {
+    background-color: white;
+    padding:50px;
+    box-sizing: border-box;
+    width:100%;
+    height: 240px;
+}
+.row-two-span {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 20px;
+}
+.row-three {
+    background-color: #27A4F5;
+}
+.row-four {
+    background-color: #27F5D5;
+}
+.row-five {
+    background-color: #B0F384;
+}
+.row-six {
+    background-color: #F9F906;
+}
